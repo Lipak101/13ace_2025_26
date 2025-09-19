@@ -1,0 +1,11 @@
+{
+  "het_napi_atlaghomersekletek": [
+    { "nap": "Hétfő", "atlag": 18.5 },
+    { "nap": "Kedd", "atlag": 19.2 },
+    { "nap": "Szerda", "atlag": 20.1 },
+    { "nap": "Csütörtök", "atlag": 21.0 },
+    { "nap": "Péntek", "atlag": 20.3 },
+    { "nap": "Szombat", "atlag": 19.8 },
+    { "nap": "Vasárnap", "atlag": 18.9 }
+  ]
+}
